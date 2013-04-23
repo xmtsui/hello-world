@@ -29,7 +29,7 @@ public class Whisper {
 		// os:original sentence
 		// ts:transformed sentence
 		String[] os = new String[group];
-		String[] ts = new String[group];
+//		String[] ts = new String[group];
 		
 		// wp:word pair
 		List<Map<String, String>> wpl = new ArrayList<Map<String, String>>();

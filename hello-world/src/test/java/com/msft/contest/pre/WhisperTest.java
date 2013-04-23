@@ -5,7 +5,8 @@ public class WhisperTest {
   @Test
   public void testSayHello()
   {
-    Whisper hw = new Whisper();
+    @SuppressWarnings("unused")
+	Whisper hw = new Whisper();
     
   }
 }

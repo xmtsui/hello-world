@@ -22,7 +22,7 @@ public class test1 {
 		boolean[] test = new boolean[10];
 		// boolean test = new boolean();
 		for (boolean i : test) {
-			// System.out.println(i);
+			 System.out.println(i);
 		}
 		System.out.println(1 << -1);
 		System.out.println(-1 >> 1);

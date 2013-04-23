@@ -94,7 +94,7 @@ public class CountryDis {
 			// System.out.println("dis: " + distanceCal(0,8,));
 
 			// Iterator<Double> ii = si.iterator();
-			Map<Double, Double> res = new HashMap();
+			Map<Double, Double> res = new HashMap<Double, Double>();
 
 			for (int t = min; t < max; t++) {
 				double[] res_tmp = new double[cn[gi]];
@@ -117,7 +117,7 @@ public class CountryDis {
 			int q = 0;
 			while (q < step) {
 				Set<Double> kk = res.keySet();
-				Iterator kki = kk.iterator();
+				Iterator<Double> kki = kk.iterator();
 				while (kki.hasNext()) {
 					res_sort[q] = new Double(kki.next().toString());
 				}

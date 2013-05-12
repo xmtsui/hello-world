@@ -29,8 +29,8 @@ public class Main3 {
 			for(int i=1; i<=daynum; i++)
 				if(CaculateWeekDay(year,mon,i) == 5)
 				{
-						if(i+7>daynum)
-							System.out.println(i);
+					if(i+7>daynum)
+						System.out.println(i);
 				}
 		}
 		else if( year%400 == 0)

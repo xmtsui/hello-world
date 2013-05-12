@@ -1,4 +1,4 @@
-package com.msft.contest.pre;
+package com.msft.contest;
 import java.util.Scanner;  
 
 public class Main {  

@@ -1,4 +1,4 @@
-package com.msft.contest.pre;
+package com.msft.contest;
 
 import java.math.BigDecimal;
 import java.util.ArrayList;

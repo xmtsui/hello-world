@@ -1,4 +1,4 @@
-package com.msft.contest.pre;
+package com.msft.contest;
 
 class URL {
 	private String path;

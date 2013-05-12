@@ -1,7 +1,7 @@
 package com.huawei.contest;
 
 import java.util.Scanner;
-public class Main {
+public class Main1 {
 	public static final long MAX_MON=20000;
 	public static final int MAX_PH=50;
 	public static long[] getInput(){

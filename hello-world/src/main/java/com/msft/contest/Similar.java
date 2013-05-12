@@ -1,4 +1,4 @@
-package com.msft.contest.pre;
+package com.msft.contest;
 
 //source here
 import java.util.Scanner;

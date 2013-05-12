@@ -1,8 +1,8 @@
-package com.huawei.contest1;
+package com.huawei.contest;
 
 import java.util.Scanner;
 
-public class Main {
+public class Main2 {
 	public static final int MAX=30;
 	public static void main(String[] args) throws Exception
 	{

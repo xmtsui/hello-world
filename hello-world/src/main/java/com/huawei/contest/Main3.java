@@ -1,9 +1,9 @@
-package com.huawei.contest2;
+package com.huawei.contest;
 
 import java.util.Scanner;
 
 
-public class Main {
+public class Main3 {
 	static int CaculateWeekDay(int y, int m, int d)
 	{
 		if (m == 1 || m == 2) {
